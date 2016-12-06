@@ -1,0 +1,12 @@
+{
+  "name": "Nome do meu APP",
+  "description": "Descrição do meu APP",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "icone-16.png", "128": "icone-128.png" }
+}
