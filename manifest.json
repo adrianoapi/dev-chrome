@@ -5,7 +5,7 @@
   "manifest_version": 2,
   "app": {
     "background": {
-      "scripts": ["asses/js/background.js"]
+      "scripts": ["assets/js/background.js"]
     }
   },
   "icons": { "16": "assets/img/icone-16.png", "128": "assets/img/icone-128.png" }

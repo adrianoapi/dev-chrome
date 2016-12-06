@@ -1,5 +1,5 @@
 ##########################
-# Auxído ao desenvovedor #
+# Auxílio ao desenvovedor #
 ##########################
 
 1. Digitar na url => chrome://flags
