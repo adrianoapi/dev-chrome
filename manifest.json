@@ -1,6 +1,6 @@
 {
-  "name": "Teste APP",
-  "description": "Descrição do meu APP",
+  "name": "Gitbash comandos",
+  "description": "Lista de comando do gitbash",
   "version": "0.1",
   "manifest_version": 2,
   "app": {
