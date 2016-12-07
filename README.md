@@ -1,8 +1,6 @@
 # dev-chrome
 
-##########################
-# Auxílio ao desenvovedor #
-##########################
+## Auxílio ao desenvovedor
 
 1. Digitar na url => chrome://flags
 2. Ativar "APIs de extensões experimentais" ou "Experimental Extension APIs"
